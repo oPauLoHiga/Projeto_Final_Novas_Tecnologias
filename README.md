@@ -11,10 +11,6 @@ A base principal utilizada foi `student-por.csv`, referente ao desempenho em Por
 - `projeto_final.ipynb`: notebook principal com todo o codigo, graficos, tabelas e interpretacoes.
 - `student-por.csv`: base principal da analise, com 649 registros e 33 colunas.
 - `student-mat.csv`: base complementar, usada para comparacao final entre disciplinas.
-- `student.txt`: dicionario original das variaveis da base.
-- `student-merge.R`: script original auxiliar da base, indicando como identificar estudantes presentes nas duas disciplinas.
-- `Trabalho_Final_Python_Pandas.pdf`: orientacoes oficiais do trabalho.
-- `trabalho_final_python_pandas_apresentacao.pptx`: apresentacao com resumo das orientacoes.
 - `README.md`: instrucoes para executar e entender o projeto.
 
 ## Base de dados
@@ -42,7 +38,7 @@ import IPython
 Para executar em ambiente local, instale as dependencias com:
 
 ```bash
-pip install -r requirements.txt
+pip install numpy pandas matplotlib seaborn ipython jupyter notebook
 ```
 
 No Google Colab, essas bibliotecas normalmente ja estao disponiveis.
@@ -52,7 +48,7 @@ No Google Colab, essas bibliotecas normalmente ja estao disponiveis.
 1. Abra a pasta do projeto no PyCharm:
 
 ```text
-C:\Users\Novas_Tecnologias\Projeto_Final_Novas_Tecnologias
+C:\Users\paulo\OneDrive\Documentos\Estudos\Novas_Tecnologias\Projeto_Final_Novas_Tecnologias
 ```
 
 2. Configure um interpretador Python para o projeto. Recomenda-se usar Python 3.11 ou superior com as bibliotecas instaladas.
@@ -60,7 +56,7 @@ C:\Users\Novas_Tecnologias\Projeto_Final_Novas_Tecnologias
 3. Instale as dependencias pelo terminal do PyCharm:
 
 ```bash
-pip install -r requirements.txt
+pip install numpy pandas matplotlib seaborn ipython jupyter notebook
 ```
 
 4. Abra o arquivo `projeto_final.ipynb`.
