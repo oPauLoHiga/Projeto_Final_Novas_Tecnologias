@@ -27,7 +27,7 @@ A variavel principal do trabalho e `G3`, que representa a nota final do estudant
 1. Abra a pasta do projeto:
 
 ```text
-C:\Users\paulo\OneDrive\Documentos\Estudos\Novas_Tecnologias\Projeto_Final_Novas_Tecnologias
+C:\User\Novas_Tecnologias\Projeto_Final_Novas_Tecnologias
 ```
 
 2. Instale as bibliotecas usadas no notebook:
