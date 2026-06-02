@@ -1,4 +1,4 @@
-# Trabalho Final Pratico - Python & Pandas
+# Trabalho Final Novas Tecnologias - Python
 
 ## Tema 1: Desempenho Academico de Estudantes
 
